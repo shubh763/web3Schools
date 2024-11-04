@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Outfit", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar-brand i {
+  font-style: normal; /* Normal style to remove italic */
+  font-weight: 500;
+  color: #f39c12; /* Orange color for emphasis */
+}
+
+.navbar-brand:hover {
+  color: #f39c12; /* Change color on hover */
+}
+
+.custom_nav_link .nav-link:hover {
+  color: #f39c12; /* Change color on hover */
+}
+
+
+
+
